@@ -43,7 +43,6 @@ export default StyleSheet.create({
     backgroundColor: '#ffeeba',
     padding: 10,
   },
-  // Estilos para InicioSesion
   input: {
     margin: 10,
     borderWidth: 1,
@@ -61,7 +60,6 @@ export default StyleSheet.create({
   buttonText: {
     color: '#fff',
   },
-  // Estilos para el componente CambiaImagen
   cambiaImagen: {
     width: 100,
     height: 100,
